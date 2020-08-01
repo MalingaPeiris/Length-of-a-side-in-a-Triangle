@@ -7,7 +7,7 @@
 using namespace std;
 int main()
 {
-        double A,B,C,D,T;//declaer variables 
+        double A,B,C,D,T;//declare variables 
         double const PI=3.14;//constant value
 
         //User inputs
